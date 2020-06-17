@@ -33,3 +33,4 @@
 /msvc_shared/
 /msvc_static/
 /build/
+_build
